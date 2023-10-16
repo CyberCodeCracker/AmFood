@@ -1,0 +1,15 @@
+{
+  "name": "amfood",
+  "version": "1.0.0",
+  "description": "Want to reward yourself after an honest day's work ? Well then you have come to the right place ! Our menu boasts a collection of fine dishes of multiples cuisines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
